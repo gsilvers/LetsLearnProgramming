@@ -7,7 +7,7 @@ Its common to have a multiline comment at the top of your project to keep track 
 tip.py - We're making a program to calculate the tip for a bill. <: You can do it!
 
 How to calculate a tip: get bill, its 25$, tip is 5$
-have bill*
+have bill*  
     ask user for bill total* 
         we will prompt user to enter bill total as 00.00
         -store bill amount-
