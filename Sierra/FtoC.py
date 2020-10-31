@@ -18,14 +18,14 @@ userTempInF=input("What is the temperature in Farenheit that you would like to c
 #print(userTempInC)
 
 # calc
-tempInCStep1=float(userTempInF)-32
-tempInCStep2=float(tempInCStep1)*5
-tempInC=float(tempInCStep2)/9
+tempInCelStep1=float(userTempInF)-32
+tempInCelStep2=float(tempInCelStep1)*5
+tempInCel=float(tempInCelStep2)/9
 
 # output
 print( )
 print("=============================<3=============================")
-print("The Tempurature Is:",tempInC)
+print("The Tempurature Is:",tempInCel)
 
 
 
