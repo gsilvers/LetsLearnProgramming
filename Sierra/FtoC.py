@@ -17,7 +17,7 @@ Tell user temp in Celcius
 userTempInF=input("What is the temperature in Farenheit that you would like to convert? ")
 #print(userTempInC)
 
-# calc
+# calc nice job sierra 
 tempInCelStep1=float(userTempInF)-32
 tempInCelStep2=float(tempInCelStep1)*5
 tempInCel=float(tempInCelStep2)/9
